@@ -14,4 +14,6 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
     }
+    // Trunk-based development: quick direct change
+    println("End of program.")
 }
